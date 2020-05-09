@@ -1,0 +1,33 @@
+#!/bin/zsh
+
+PGPASSWORD=cooktop
+# set -euo pipefail
+
+# if [[ -n "${DEBUG:-}" ]]; then
+# 	set -x
+# fi
+# IFS=$'\n\t'
+sudo adduser cooktop
+
+su cooktop -c "createuser -w -d -r -s cooktop"
+su cooktop -c "createdb -O docker cooktop"
+
+DB_NAME='cooktop'
+readonly DIR="$(dirname "$(realpath "$0")")"
+
+readonly DB_SUFFIXES=(
+	'test'
+	'development'
+)
+
+declare -a pgopts=(--host localhost --port 5442 --user cooktop)
+
+for suffix in "${DB_SUFFIXES[@]}"; do
+	dbname="${DB_NAME}_${suffix}"
+	if psql "${pgopts[@]}" --dbname "$dbname" -c '' ; then
+		echo "$dbname is online"
+	else
+		createdb "${pgopts[@]}" "${DB_NAME}_${suffix}"
+	fi
+	declare -a psqldb=(psql "${pgopts[@]}" --dbname "$dbname")
+done
