@@ -1,0 +1,16 @@
+{
+  "name": "cooktop-management-api",
+  "version": "0.0.1",
+  "description": "Management API for Cooktop",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "Patrick Holloway",
+  "license": "MIT"
+}
