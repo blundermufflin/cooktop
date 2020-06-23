@@ -1,19 +1,27 @@
 #!/bin/zsh
 
 PGPASSWORD=cooktop
-# set -euo pipefail
+set -euo pipefail
 
-# if [[ -n "${DEBUG:-}" ]]; then
-# 	set -x
-# fi
-# IFS=$'\n\t'
-sudo adduser cooktop
+if [[ -n "${DEBUG:-}" ]]; then
+	set -x
+fi
 
-su cooktop -c "createuser -w -d -r -s cooktop"
-su cooktop -c "createdb -O docker cooktop"
+validuser(){ [[ -n $(id -u "$1" 2>/dev/null) ]] && echo 1 || echo 0; }
+
+function addUsers {
+	sudo -i
+	if [validuser('cooktop')]; then
+		adduser cooktop
+	fi
+	usermod -a -G adm, sudo
+	su cooktop -c "createuser -w -d -r -s cooktop"
+	su cooktop -c "createdb -O cooktop cooktop"
+}
+
+addUsers
 
 DB_NAME='cooktop'
-readonly DIR="$(dirname "$(realpath "$0")")"
 
 readonly DB_SUFFIXES=(
 	'test'
