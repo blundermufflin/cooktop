@@ -10,9 +10,8 @@ fi
 validuser(){ [[ -n $(id -u "$1" 2>/dev/null) ]] && echo 1 || echo 0; }
 
 function addUsers {
-	sudo -i
 	if [validuser('cooktop')]; then
-		adduser cooktop
+		sudo adduser cooktop
 	fi
 	usermod -a -G adm, sudo
 	su cooktop -c "createuser -w -d -r -s cooktop"

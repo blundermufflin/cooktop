@@ -1,5 +1,5 @@
 {
-  "name": "cooktop-api",
+  "name": "management-api",
   "version": "0.0.2",
   "description": "",
   "main": "build/index.js",
