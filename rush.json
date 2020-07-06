@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/rush.schema.json",
   "rushVersion": "5.23.2",
-  "pnpmVersion": "2.15.1",
+  "pnpmVersion": "3.8.1",
   "pnpmOptions": {
     "strictPeerDependencies": false
   },
@@ -10,7 +10,7 @@
   "ensureConsistentVersions": true,
 
   "projectFolderMinDepth": 2,
-  "projectFolderMaxDepth": 2,
+  "projectFolderMaxDepth": 3,
   "approvedPackagesPolicy": {
     "reviewCategories": [
       "production",
@@ -37,7 +37,7 @@
   "projects": [
     {
       "packageName": "management-api",
-      "projectFolder": "src/services/my-app",
+      "projectFolder": "src/services/management-api",
       "reviewCategory": "production"
     },
     {
