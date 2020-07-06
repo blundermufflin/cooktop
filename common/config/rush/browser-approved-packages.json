@@ -1,0 +1,150 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@testing-library/jest-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@testing-library/react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@testing-library/user-event",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@unform/core",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@unform/web",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "axios",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "body-parser",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "chai",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "dotenv",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-config-airbnb",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-config-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-import-resolver-typescript",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-import",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-jsx-a11y",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-react-hooks",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "express",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "knex",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "mocha",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "nodemon",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "objection",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "pg",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-router-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-scripts",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "styled-components",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "supertest",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "ts-node",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "tsconfig-paths",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "production" ]
+    }
+  ]
+}

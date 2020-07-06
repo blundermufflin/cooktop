@@ -1,0 +1,4887 @@
+{
+	"registry.npmjs.org/@types/axios/0.14.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/dotenv/6.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/mocha/5.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/supertest/2.0.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/react-router-dom/5.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/body-parser/1.19.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/express/4.17.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/chai/4.2.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/jest/24.9.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/react-dom/16.9.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/styled-components/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/react/16.9.41": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@testing-library/jest-dom/4.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/body-parser/1.19.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dotenv/8.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-config-prettier/6.11.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-config-airbnb/18.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-import-resolver-typescript/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-prettier/3.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-react-hooks/2.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/axios/0.19.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@testing-library/react/9.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@typescript-eslint/parser/2.34.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@unform/web/2.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chai/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@unform/core/2.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg/8.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react/16.13.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nodemon/1.19.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supertest/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-scripts/3.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"local/%2Fhome%2Fpatrick%2Frepos%2Fcooktop%2Fcommon%2Ftemp%2Fprojects%2Fcooktop-ui.tgz": [],
+	"local/%2Fhome%2Fpatrick%2Frepos%2Fcooktop%2Fcommon%2Ftemp%2Fprojects%2Fmanagement-api.tgz": [],
+	"registry.npmjs.org/mocha/6.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-router-dom/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ts-node/8.10.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-dom/16.13.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/hoist-non-react-statics/3.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@testing-library/user-event/7.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/styled-components/5.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-import/2.22.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/react-router/5.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/react-native/0.62.17": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/history/4.7.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-react/7.20.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/csstype/2.6.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/connect/3.4.33": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/qs/6.9.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/serve-static/1.13.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/express-serve-static-core/4.17.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prettier/2.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/knex/0.21.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chalk/2.4.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-matcher-utils/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css/2.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/redent/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/superagent/4.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-diff/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/testing-library__react/9.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/prop-types/15.7.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pretty-format/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/functional-red-black-tree/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/content-type/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regexpp/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bytes/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/objection/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-jsx-a11y/6.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-errors/1.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/debug/2.6.9": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/on-finished/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type-is/1.6.18": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/depd/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/raw-body/2.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/follow-redirects/1.5.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/assertion-error/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@testing-library/dom/6.16.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/check-error/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/qs/6.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/deep-eql/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-func-name/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type-detect/4.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/iconv-lite/0.4.24": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pathval/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-stdin/6.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/debug/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-glob/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tsutils/3.17.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.entries/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-config-airbnb-base/14.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tiny-glob/0.2.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cross-spawn/6.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/code-frame/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-visitor-keys/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/file-entry-cache/5.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/doctrine/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-utils/1.4.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-scope/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/espree/6.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/runtime/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/glob-parent/5.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/esquery/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globals/12.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-fresh/3.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/imurmurhash/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ignore/4.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/levn/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minimatch/3.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/natural-compare/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mkdirp/0.5.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/optionator/0.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@typescript-eslint/eslint-plugin/2.34.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inquirer/7.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regexpp/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-ansi/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver/6.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-json-comments/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/text-table/0.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/js-yaml/3.14.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve/1.17.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ast-types-flow/0.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/v8-compile-cache/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/damerau-levenshtein/1.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/emoji-regex/9.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ajv/6.12.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/contains-path/0.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-includes/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array.prototype.flat/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/doctrine/1.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/read-pkg-up/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-import-resolver-node/0.3.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-module-utils/2.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.values/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint/6.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/table/5.4.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prettier-linter-helpers/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/eslint-visitor-keys/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/doctrine/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array.prototype.flatmap/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.fromentries/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/content-disposition/0.5.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-flatten/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cookie/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prop-types/15.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cookie-signature/1.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/encodeurl/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/escape-html/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsx-ast-utils/2.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string.prototype.matchall/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/etag/1.8.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/finalhandler/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/merge-descriptors/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fresh/0.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parseurl/1.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/methods/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-to-regexp/0.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/range-parser/1.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/proxy-addr/2.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/serve-static/1.14.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/setprototypeof/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/utils-merge/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/send/0.17.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/statuses/1.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/vary/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/colorette/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inherits/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/getopts/2.2.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/commander/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-connection-string/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mkdirp/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tildify/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/interpret/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/axobject-query/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/v8flags/3.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/liftoff/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browser-stdout/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-colors/3.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tarn/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/debug/3.2.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-up/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/escape-string-regexp/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/glob/7.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aria-query/4.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@typescript-eslint/typescript-estree/2.34.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mkdirp/0.5.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/log-symbols/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/he/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/growl/1.10.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ms/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dot-object/2.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supports-color/6.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wide-align/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/which/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-environment-flags/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yargs-unparser/1.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ignore-by-default/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/diff/3.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver/5.7.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yargs-parser/13.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/js-yaml/3.13.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supports-color/5.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chokidar/2.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-connection-string/2.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pstree.remy/1.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/undefsafe/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/esm/3.2.25": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/update-notifier/2.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/buffer-writer/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/packet-reader/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pgpass/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loose-envify/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-types/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-pool/3.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yargs/13.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-assign/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver/4.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tiny-invariant/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-named-asset-import/0.3.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/webpack/4.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tiny-warning/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-loader/8.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/scheduler/0.19.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-preset-react-app/9.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/history/4.10.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-jest/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-eslint/10.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-protocol/1.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/camelcase/5.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-config-react-app/5.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/case-sensitive-paths-webpack-plugin/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dotenv-expand/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-react-hooks/1.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-router/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-loader/3.4.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/file-loader/4.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/core/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-environment-jsdom-fourteen/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-webpack-plugin/4.0.0-beta.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/identity-obj-proxy/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mini-css-extract-plugin/0.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-watch-typeahead/0.4.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-resolve/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs-extra/8.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/db-errors/0.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pnp-webpack-plugin/1.6.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/optimize-css-assets-webpack-plugin/5.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-flowtype/4.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-loader/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize/8.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-app-polyfill/1.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-preset-env/6.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-url-loader/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/typescript/3.7.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-import/2.20.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/style-loader/0.23.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/terser-webpack-plugin/2.3.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sass-loader/8.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-dev-utils/10.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-react/7.19.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ts-pnp/1.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/url-loader/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack-manifest-plugin/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-module-imports/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-webpack-plugin/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hoist-non-react-statics/3.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-safe-parser/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@emotion/stylis/0.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@emotion/is-prop-valid/0.8.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shallowequal/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/traverse/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-styled-components/1.10.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arg/4.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve/1.15.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/make-error/1.3.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-map-support/0.5.19": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-bom/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yn/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack-dev-server/3.10.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-to-react-native/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/mime/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/diff/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regenerator-runtime/0.13.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/range-parser/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minimist/1.2.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-styles/3.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json5/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/indent-string/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/urix/0.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-get-type/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-map-resolve/0.5.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-regex/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/diff-sequences/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-indent/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-map/0.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-is/16.13.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/cookiejar/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-plugin-jsx-a11y/6.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ms/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@sheerun/mutationobserver-shim/0.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/testing-library__dom/7.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tslib/1.13.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/json-schema/7.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inherits/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-utils/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@emotion/unitless/0.7.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/testing-library__dom/6.14.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dom-accessibility-api/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wait-for-expect/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/toidentifier/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ee-first/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/media-typer/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mime-types/2.1.27": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pretty-format/25.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/debug/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ms/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unpipe/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/define-properties/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/confusing-browser-globals/1.0.9": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/function-bind/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-keys/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-symbols/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globalyzer/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-parse/1.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-extglob/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nice-try/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-key/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fast-deep-equal/3.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shebang-command/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-schema-traverse/0.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/estraverse/4.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/highlight/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/estraverse/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fast-json-stable-stringify/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn-jsx/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/esrecurse/4.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parent-module/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-from/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flat-cache/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn/7.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type-fest/0.8.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-escapes/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/esprima/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cli-cursor/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cli-width/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/figures/3.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mute-stream/0.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-ansi/6.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/argparse/1.0.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-width/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/run-async/2.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/external-editor/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/brace-expansion/1.1.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-width/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type-check/0.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fast-levenshtein/2.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/word-wrap/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/slice-ansi/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/uri-js/4.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/through/2.3.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/deep-is/0.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-up/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/glob/7.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/axe-core/3.5.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pkg-dir/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/read-pkg/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-string/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isarray/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/internal-slot/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/negotiator/0.6.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-errors/1.7.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/side-channel/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regexp.prototype.flags/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash/4.17.15": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/forwarded/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/language-subtag-registry/0.3.20": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ipaddr.js/1.9.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/destroy/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mime/1.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/findup-sync/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fined/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.map/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-plain-object/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flagged-respawn/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rechoir/0.6.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/extend/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver/7.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/locate-path/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/homedir-polyfill/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inflight/1.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-is-absolute/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs.realpath/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/once/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-width/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isexe/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-flag/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cliui/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-caller-file/2.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/require-directory/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.getownpropertydescriptors/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/y18n/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/async-each/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/glob-parent/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/anymatch/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flat/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/set-blocking/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/which-module/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fsevents/1.2.13": [],
+	"registry.npmjs.org/decamelize/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/braces/2.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-path/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-binary-path/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack/4.42.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/readdirp/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-lazy/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-installed-globally/0.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/upath/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/configstore/3.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-npm/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-ci/1.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver-diff/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nopt/1.0.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/latest-version/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/xdg-basedir/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pg-int8/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postgres-array/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-to-regexp/1.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postgres-date/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postgres-bytea/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/split/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postgres-interval/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mini-create-react-context/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/value-equal/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-pathname/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/convert-source-map/1.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helpers/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-module-transforms/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/gensync/1.0.0-beta.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-react/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json5/2.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/template/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/parser/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/generator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-map/0.5.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/plugin-svgo/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loader-utils/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/core/4.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/plugin-jsx/4.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-cache-dir/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pify/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-env/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/babel__core/7.1.9": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-preset-jest/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-istanbul/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/slash/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-class-properties/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-decorators/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/schema-utils/2.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/core/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/transform/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-optional-chaining/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-numeric-separator/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-react/7.9.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-display-name/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-typescript/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-flow-strip-types/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-runtime/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/emoji-regex/7.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-macros/2.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-transform-react-remove-prop-types/0.4.24": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-env/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/icss-utils/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-modules-values/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-modules-local-by-default/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-modules-scope/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssesc/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loader-fs-cache/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-hash/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/types/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/universalify/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/harmony-reflect/1.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsonfile/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/graceful-fs/4.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-value-parser/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-minifier-terser/5.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/xregexp/4.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pretty-error/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss/7.0.32": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tapable/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-local/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/environment/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-mock/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/fake-timers/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browser-resolve/1.11.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/realpath-native/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-pnp-resolver/1.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-regex-util/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/slash/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/schema-utils/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-length/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/last-call-webpack-plugin/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack-sources/1.4.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano/4.1.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-url/1.9.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-cli/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-watcher/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-load-config/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-util/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-browser-comments/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserslist/4.13.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@csstools/normalize.css/10.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sanitize.css/10.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-blank-pseudo/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssdb/4.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-has-pseudo/0.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-color-gray/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-color-functional-notation/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/runtime/7.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-prefers-color-scheme/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-color-rebeccapurple/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-color-hex-alpha/5.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aria-query/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-color-mod-function/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-custom-selectors/5.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-custom-properties/8.0.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-custom-media/7.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-double-position-gradients/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-dir-pseudo-class/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-focus-visible/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-env-function/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-font-variant/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-image-set-function/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-focus-within/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-nesting/7.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-media-minmax/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-initial/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-overflow-shorthand/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-page-break/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-logical/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-replace-overflow-wrap/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-selector-matches/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-place/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-pseudo-class-any-link/6.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-lab-function/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-selector-not/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/autoprefixer/9.8.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/code-frame/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/escape-string-regexp/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cross-spawn/7.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/address/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-up/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/raf/3.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/whatwg-fetch/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/filesize/6.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/detect-port-alt/1.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/runtime-corejs3/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/global-modules/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globby/8.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/gzip-size/5.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/promise/8.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-root/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loader-utils/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/open/7.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inquirer/7.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/immer/1.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pkg-up/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/recursive-readdir/2.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/compose-function/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shell-quote/1.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/react-error-overlay/6.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rework/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rework-visit/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/clone-deep/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-cache-dir/3.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/es6-iterator/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/adjust-sourcemap-loader/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-limit/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/serialize-javascript/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss/7.0.21": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-html/0.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bonjour/3.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cacache/13.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/connect-history-api-fallback/1.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/compression/1.7.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/es-abstract/1.17.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-worker/25.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/del/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/internal-ip/4.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ip/1.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-entities/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-proxy-middleware/0.19.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-absolute-url/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/opn/5.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-retry/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/terser/4.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/portfinder/1.0.26": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/selfsigned/1.10.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-ansi/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supports-color/6.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loglevel/1.6.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdy/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/url/0.11.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack-log/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webpack-dev-middleware/3.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/neo-async/2.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sockjs/0.3.19": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-stable-stringify/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cookiejar/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/component-emitter/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yargs/12.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/form-data/2.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs-extra/7.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globals/11.12.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/qs/6.9.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/formidable/1.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sockjs-client/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-split-export-declaration/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-function-name/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-module-context/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wasm-edit/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chrome-trace-event/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/readable-stream/2.3.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-scope/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wasm-parser/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/serve-index/1.9.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn/6.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-parse-better-errors/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/loader-runner/2.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/terser-webpack-plugin/1.4.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/memory-fs/0.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/camelize/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/ast/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-libs-browser/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-annotate-as-pure/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-color-keywords/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/micromatch/3.1.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/watchpack/1.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-build/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-syntax-jsx/6.18.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/enhanced-resolve/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color-convert/1.9.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/decode-uri-component/0.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-regex/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/atob/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-styles/4.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-url/0.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/min-indent/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/istanbul-lib-coverage/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@emotion/memoize/0.7.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-map-url/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/istanbul-reports/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/yargs/13.0.9": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/types/25.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/es-to-primitive/1.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shebang-regex/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/punycode/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mime-db/1.44.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-regex/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-validator-identifier/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supports-color/7.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rimraf/2.6.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string.prototype.trimend/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string.prototype.trimstart/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/write/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flatted/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/callsites/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/restore-cursor/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-inspect/1.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tmp/0.0.33": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-fullwidth-code-point/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/balanced-match/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sprintf-js/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/concat-map/0.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-fullwidth-code-point/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chardet/0.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/locate-path/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@testing-library/dom/7.20.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type-fest/0.11.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/astral-regex/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/load-json-file/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-package-data/2.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/detect-file/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-dir/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.pick/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-filepath/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isobject/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/for-own/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.defaults/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-locate/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-passwd/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-type/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/make-iterator/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wrappy/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-exists/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-glob/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-path/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-buffer/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-dirname/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wrap-ansi/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-ansi/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arr-flatten/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/extend-shallow/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-unique/0.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/repeat-element/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fill-range/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-regex/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/snapdragon-node/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/split-string/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/snapdragon/0.8.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/binary-extensions/1.13.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsdom/14.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/camelcase/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/abbrev/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/widest-line/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/term-size/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unique-string/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/make-dir/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-path-inside/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/write-file-atomic/2.4.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ci-info/1.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dot-prop/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cli-boxes/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/global-dirs/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isarray/0.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/package-json/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nan/2.14.1": [],
+	"registry.npmjs.org/jsesc/2.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/xtend/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-class-properties/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-dynamic-import/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-simple-access/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-nullish-coalescing-operator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-replace-supers/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-numeric-separator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-async-generator-functions/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-plugin-utils/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-json-strings/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-compilation-targets/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/compat-data/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-optional-chaining/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-async-generators/7.8.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-optional-catch-binding/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-private-methods/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-dynamic-import/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-class-properties/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-numeric-separator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-nullish-coalescing-operator/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-json-strings/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-optional-chaining/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-optional-catch-binding/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-object-rest-spread/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-top-level-await/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-async-to-generator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-block-scoping/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-block-scoped-functions/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-arrow-functions/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-classes/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-computed-properties/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-destructuring/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-for-of/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-exponentiation-operator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-dotall-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-function-name/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-literals/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-member-expression-literals/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-modules-amd/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-modules-commonjs/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-modules-systemjs/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-modules-umd/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-named-capturing-groups-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-new-target/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-property-literals/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-object-super/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-parameters/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-shorthand-properties/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-spread/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-reserved-words/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-unicode-escapes/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-template-literals/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-typeof-symbol/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-display-name/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-unicode-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/invariant/2.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-sticky-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/levenary/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/preset-modules/0.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/core-js-compat/3.6.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-jsx-development/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-jsx/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/emojis-list/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-jsx-self/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/merge-deep/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/make-dir/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/big.js/5.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/commondir/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cosmiconfig/5.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pkg-dir/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/svg-parser/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-preset/4.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/hast-util-to-babel-ast/4.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/write-file-atomic/2.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/istanbul-lib-instrument/3.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/babel__template/7.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/babel__traverse/7.0.12": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/test-exclude/5.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pirates/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-jest-hoist/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-decorators/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/commander/2.20.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-create-class-features-plugin/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-cache-dir/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-flow/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-typescript/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/svgo/1.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/caniuse-lite/1.0.30001094": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/camel-case/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-ci/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/param-case/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/utila/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/source-map/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/relateurl/0.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/test-result/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/console/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cosmiconfig/6.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-haste-map/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-message-util/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-cwd/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/util.promisify/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-selector-parser/6.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn-globals/4.3.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-equal/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/abab/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/exit/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/data-urls/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/renderkid/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssom/0.3.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/escodegen/1.14.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-encoding-sniffer/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domexception/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-validate/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nwsapi/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/request-promise-native/1.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-config/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/request/2.88.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/saxes/3.1.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/webidl-conversions/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/w3c-hr-time/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tough-cookie/2.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/w3c-xmlserializer/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve/1.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/whatwg-encoding/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/whatwg-mimetype/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse5/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-escapes/3.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pn/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/xml-name-validator/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/whatwg-url/7.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-length/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prepend-http/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sort-keys/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/source-list-map/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ajv-errors/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano-preset-default/4.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-resolvable/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-cwd/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/colorette/1.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-range/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssstyle/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/escalade/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/num2fraction/1.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-releases/1.1.58": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/core/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-selector-parser/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-key/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shebang-command/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-values-parser/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash.template/4.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/locate-path/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/which/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/asap/2.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pify/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dir-glob/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ignore/3.3.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cli-width/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-union/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/slash/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/electron-to-chromium/1.3.488": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/emojis-list/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@csstools/convert-colors/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/performance-now/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chokidar/3.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/global-prefix/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-code-frame/6.26.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/camelcase/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-docker/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-wsl/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regex-parser/2.2.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/assert/1.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-path/0.11.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arity-n/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/convert-source-map/0.3.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/make-dir/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pkg-dir/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kind-of/6.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/worker-rpc/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/d/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chownr/1.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/figgy-pudding/3.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minipass-collect/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/infer-owner/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minipass-flush/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minipass-pipeline/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lru-cache/5.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minipass/3.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs-minipass/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/es6-symbol/3.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-map/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/move-concurrently/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-flatten/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rimraf/2.7.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/promise-inflight/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ssri/7.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/merge-stream/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bytes/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dns-equal/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/deep-equal/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unique-filename/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dns-txt/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/compressible/2.0.18": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/multicast-dns-service-types/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globby/6.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/on-headers/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/multicast-dns/6.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-map/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fast-glob/2.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-path-cwd/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/glob/7.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-wsl/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-regex/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-errors/1.6.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/batch/0.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/default-gateway/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/uuid/3.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/retry/0.12.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-proxy/1.18.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/faye-websocket/0.11.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eventsource/1.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/handle-thing/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json3/3.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/url-parse/1.4.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-deceiver/1.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cliui/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/select-hose/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-caller-file/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/require-main-filename/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/querystring/0.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yargs-parser/11.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/os-locale/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-colors/3.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdy-transport/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/async-limiter/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stringify-object/3.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsonify/0.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-comments/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-forge/0.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-background-sync/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-broadcast-update/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@hapi/joi/15.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-cacheable-response/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-google-analytics/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-navigation-preload/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-expiration/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs-extra/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/async/2.6.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-core/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/faye-websocket/0.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-precaching/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-range-requests/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-routing/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-strategies/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/combined-stream/1.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-streams/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-sw/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/process-nextick-args/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/core-util-is/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/util-deprecate/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/workbox-window/4.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string_decoder/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-get-function-arity/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/common-tags/1.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mamacro/0.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/memory-fs/0.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-wasm-section/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-api-error/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/ieee754/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-buffer/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wast-parser/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wast-printer/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/serialize-javascript/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wasm-gen/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/assert/1.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/leb128/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cacache/12.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/utf8/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/punycode/1.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/constants-browserify/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-browserify/0.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/https-browserify/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/os-browserify/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/process/0.11.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/console-browserify/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-zlib/0.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/worker-farm/1.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string_decoder/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/crypto-browserify/3.12.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/querystring-es3/0.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/events/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tty-browserify/0.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/extend-shallow/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/timers-browserify/2.0.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stream-browserify/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/util/0.11.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arr-diff/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fragment-cache/0.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/vm-browserify/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/buffer/4.9.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/extglob/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regex-not/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/watchpack-chokidar2/2.0.0": [],
+	"registry.npmjs.org/@types/yargs/15.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chalk/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nanomatch/1.2.13": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/errno/0.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color-name/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color-convert/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/color-name/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stream-http/2.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-flag/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/aria-query/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-locate/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/onetime/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/yargs-parser/15.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pify/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-date-object/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/signal-exit/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/os-tmpdir/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-symbol/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/global-modules/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hosted-git-info/2.8.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/validate-npm-package-license/3.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-json/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-slice/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-each/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-absolute/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/map-cache/0.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-regex/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/for-in/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/remove-trailing-separator/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/define-property/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/define-property/0.2.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/repeat-string/1.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-number/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-extendable/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/use/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-regex-range/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/snapdragon-util/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/base/0.11.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dom-accessibility-api/0.4.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/file-uri-to-path/1.0.0": [],
+	"registry.npmjs.org/is-obj/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/safe-regex/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-is-inside/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/execa/0.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/registry-url/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ini/1.3.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/got/6.7.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-optimise-call-expression/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-member-expression-to-functions/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-create-regexp-features-plugin/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/registry-auth-token/3.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-remap-async-to-generator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-define-map/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-dynamic-import-node/2.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-hoist-variables/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-fresh/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regenerator-transform/0.14.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-jsx/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-json/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-builder-react-jsx/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-builder-react-jsx-experimental/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-directory/0.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/clone-deep/0.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-select-base-adapter/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kind-of/3.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-select/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/semver/7.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/coa/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arr-union/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stable/0.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sax/1.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/read-pkg-up/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-remove-jsx-attribute/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-svg-dynamic-title/4.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-replace-jsx-attribute-value/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/istanbul-lib-coverage/2.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-add-jsx-attribute/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-remove-jsx-empty-expression/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-svg-em-dimensions/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fb-watchman/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@svgr/babel-plugin-transform-svg-component/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-json/5.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-modules-regexp/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pkg-dir/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/walker/1.0.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-serializer/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/csso/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/parse-json/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-syntax-typescript/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sane/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/indexes-of/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/uniq/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dom-converter/0.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-select/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-worker/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/resolve-from/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dot-case/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/htmlparser2/3.10.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pascal-case/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stack-utils/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/stack-utils/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-resolve-dependencies/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-each-series/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yaml/1.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-changed-files/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-environment-node/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-environment-jsdom/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/test-sequencer/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kleur/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-tree/1.0.0-alpha.37": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aws-sign2/0.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sisteransi/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aws4/1.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/reporters/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-runtime/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/caseless/0.12.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-runner/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/form-data/2.3.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/forever-agent/0.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-snapshot/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/har-validator/5.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-typedarray/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/oauth-sign/0.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/safe-buffer/5.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isstream/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tunnel-agent/0.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-signature/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-stringify-safe/5.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/qs/6.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stealthy-require/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browser-process-hrtime/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/psl/1.8.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-plain-obj/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strict-uri-encode/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash.sortby/4.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/xmlchars/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano-util-raw-cache/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tr46/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-declaration-sorter/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-convert-values/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-colormin/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-discard-duplicates/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-discard-comments/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-calc/7.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-merge-rules/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-minify-gradients/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-minify-params/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-minify-font-values/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-discard-overridden/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-minify-selectors/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-charset/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-display-values/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-positions/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-repeat-style/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-string/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-timing-functions/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-unicode/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-merge-longhand/4.0.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-whitespace/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-jasmine2/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssesc/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-reduce-transforms/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/import-from/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-svgo/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-reduce-initial/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shebang-regex/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-locate/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-unique-selectors/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flatten/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-normalize-url/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-type/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash._reinterpolate/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash.templatesettings/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fsevents/2.1.3": [],
+	"registry.npmjs.org/anymatch/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/core-js/3.6.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/array-uniq/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/readdirp/3.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chalk/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/merge2/1.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-binary-path/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/js-tokens/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/braces/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@nodelib/fs.stat/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/next-tick/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@mrmlnc/readdir-enhanced/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yallist/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/util/0.10.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/run-queue/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aproba/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/microevent.ts/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/aggregate-error/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/copy-concurrently/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unique-slug/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dns-packet/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fs-write-stream-atomic/1.0.10": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-path-inside/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-arguments/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pinkie-promise/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/buffer-indexof/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/setprototypeof/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-is/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/thunky/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/execa/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/follow-redirects/1.12.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ip-regex/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wrap-ansi/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/original/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/querystringify/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/detect-node/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eventemitter3/4.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/requires-port/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/wbuf/1.7.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/obuf/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lcid/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mem/4.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ext/1.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/websocket-driver/0.7.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-regexp/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/readable-stream/3.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-transform-object-rest-spread/6.26.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-extract-comments/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@hapi/topo/3.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hpack.js/2.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-own-enumerable-property-symbols/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@hapi/address/2.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/delayed-stream/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-code-frame/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ssri/6.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/helper-fsm/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mississippi/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@hapi/hoek/8.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@xtuc/long/4.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@xtuc/ieee754/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/base64-js/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-cipher/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ieee754/1.1.13": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/create-ecdh/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-sign/4.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/create-hash/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/create-hmac/1.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-extendable/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/diffie-hellman/5.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/builtin-status-codes/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pbkdf2/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/setimmediate/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/assign-symbols/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-descriptor/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-arraybuffer/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/expand-brackets/2.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color-name/1.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-windows/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-limit/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/global-prefix/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prr/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mimic-fn/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/error-ex/1.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdx-correct/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pako/1.0.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-descriptor/0.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bluebird/3.7.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-relative/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdx-expression-parse/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/public-encrypt/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-root-regex/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/class-utils/0.3.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mixin-deep/1.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pascalcase/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ret/0.1.15": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cross-spawn/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-stream/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-eof/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/npm-run-path/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-stream/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-finally/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/duplexer3/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-redirect/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/create-error-class/3.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lowercase-keys/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/timed-out/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unzip-response/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rc/1.2.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/url-parse-lax/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/caller-path/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-explode-assignable-expression/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/for-own/0.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/boolbase/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regexpu-core/4.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/helper-wrap-function/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/q/1.5.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/q/1.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shallow-clone/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-buffer/1.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lazy-cache/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/read-pkg/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/find-up/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-what/3.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-what/2.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bser/2.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/makeerror/1.0.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lines-and-columns/1.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/es5-ext/0.10.53": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/capture-exit/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domutils/1.7.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@cnakazawa/watch/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/exec-sh/0.3.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domelementtype/1.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domutils/1.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/throat/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/no-case/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/istanbul-lib-source-maps/3.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/entities/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-reduce/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/istanbul-lib-report/2.0.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mdn-data/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-generator-fn/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/co/4.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-docblock/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-leak-detector/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/istanbul-reports/2.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/assert-plus/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color/3.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-color-names/0.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/timsort/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-value-parser/3.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/caniuse-api/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsprim/1.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jest-each/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-notifier/5.4.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano-util-same-parent/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/vendors/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano-util-get-arguments/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/alphanum-sort/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stylehacks/4.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sshpk/1.16.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/normalize-url/3.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-absolute-url/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cssnano-util-get-match/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fill-range/7.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-selector-parser/3.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-color-stop/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/binary-extensions/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-svg/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-styles/2.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/supports-color/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/inherits/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/glob-to-regexp/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/picomatch/2.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/call-me-maybe/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-ansi/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/expect/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/string-width/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pinkie/2.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/clean-stack/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/iferr/0.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/http-parser-js/0.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minimalistic-assert/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/invert-kv/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-plugin-syntax-object-rest-spread/6.13.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-is-promise/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/map-age-cleaner/0.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/websocket-extensions/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/concat-stream/1.6.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/end-of-stream/1.4.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/duplexify/3.7.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/flush-write-stream/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babylon/6.18.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parallel-transform/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/through2/2.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stream-each/1.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pump/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pumpify/1.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/evp_bytestokey/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-des/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bn.js/5.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-rsa/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserify-aes/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bn.js/4.11.9": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse-asn1/5.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cipher-base/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css-tree/1.0.0-alpha.39": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ripemd160/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/posix-character-classes/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/miller-rabin/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-try/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-accessor-descriptor/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-data-descriptor/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-accessor-descriptor/0.1.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/elliptic/6.5.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-data-descriptor/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/sha.js/2.4.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdx-license-ids/3.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kind-of/5.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-arrayish/0.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-value/2.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/spdx-exceptions/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/collection-visit/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lru-cache/4.1.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-value/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/set-value/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-object-path/0.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/union-value/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/static-extend/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/type/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unset-value/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/deep-extend/0.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/capture-stack-trace/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regenerate/1.4.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regjsgen/0.5.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/core-js-pure/3.6.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unicode-match-property-ecmascript/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lazy-cache/0.2.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unicode-match-property-value-ecmascript/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/caller-callsite/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/load-json-file/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mixin-object/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regjsparser/0.6.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-exists/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dom-serializer/0.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/node-int64/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tmpl/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/growly/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-escaper/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lower-case/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/whatwg-url/6.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mdn-data/2.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ws/5.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/left-pad/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/detect-newline/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dashdash/1.14.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/parse5/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsbn/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rsvp/4.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tweetnacl/0.14.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn/5.7.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/color-string/1.5.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/dot-prop/5.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/bcrypt-pbkdf/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/extsprintf/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ecc-jsbn/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/verror/1.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-regex-range/5.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash.uniq/4.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hsl-regex/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-fullwidth-code-point/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/html-comment-regex/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hex-color-regex/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hsla-regex/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rgb-regex/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/asn1/0.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/code-point-at/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rgba-regex/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/json-schema/0.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regenerator-runtime/0.11.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-defer/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pump/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/stream-shift/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/typedarray/0.0.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cyclist/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/brorand/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/minimalistic-crypto-utils/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hash-base/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hmac-drbg/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/buffer-xor/1.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/des.js/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yallist/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/map-visit/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-visit/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-value/0.3.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pseudomap/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/asn1.js/4.10.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/hash.js/1.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object-copy/0.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-values/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unicode-canonical-property-names-ecmascript/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/callsites/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/for-in/0.1.8": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsesc/0.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/css.escape/1.5.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@jest/types/24.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/istanbul-lib-report/3.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/js-tokens/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/node/12.12.47": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@typescript-eslint/experimental-utils/2.34.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/esutils/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/chalk/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/safer-buffer/2.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/rxjs/6.6.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/emoji-regex/8.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prelude-ls/1.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/progress/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/commander/4.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/object.assign/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-callable/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/tsconfig-paths/3.9.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/json5/0.0.29": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/language-tags/1.0.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/globrex/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fast-diff/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/express/4.17.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/accepts/1.3.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/safe-buffer/5.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/cache-base/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kind-of/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/has-values/0.1.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/isobject/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/copy-descriptor/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/define-property/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/expand-tilde/2.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-unc-path/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unc-path-regex/0.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-root/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/uuid/7.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/p-try/2.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/strip-json-comments/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/require-main-filename/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/touch/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/boxen/1.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ansi-align/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/crypto-random-string/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-retry-allowed/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/to-fast-properties/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-constant-elements/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/leven/3.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-unicode-property-regex/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/regenerate-unicode-properties/8.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unicode-property-aliases-ecmascript/1.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-duplicate-keys/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-regenerator/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-transform-react-jsx-source/7.10.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/kind-of/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domelementtype/2.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/entities/2.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/nth-check/1.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/unquote/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ci-info/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/get-stream/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/babel__generator/7.6.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ajv-keywords/3.5.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@webassemblyjs/wasm-opt/1.8.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/md5.js/1.3.5": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/randombytes/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/randomfill/1.0.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domain-browser/1.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/punycode/1.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/buffer-from/1.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/from2/2.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@babel/plugin-proposal-nullish-coalescing-operator/7.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-type/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-modules-extract-imports/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/eslint-loader/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/clean-css/4.2.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/domhandler/2.4.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/util.promisify/1.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/jsdom/11.12.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/acorn-walk/6.2.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/asynckit/0.4.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/har-schema/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/getpass/0.1.7": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/request-promise-core/1.1.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/symbol-tree/3.2.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shellwords/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/prompts/2.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/ws/6.2.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/query-string/4.3.4": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/simple-swizzle/0.2.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-arrayish/0.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-discard-empty/4.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-obj/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/lodash.memoize/4.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/uniqs/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-ordered-values/4.1.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-flexbugs-fixes/4.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-attribute-case-insensitive/4.0.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/postcss-gap-properties/2.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/browserslist/4.10.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/path-exists/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/fork-ts-checker-webpack-plugin/3.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-number/7.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/arrify/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/duplexer/0.1.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/shallow-clone/3.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/yallist/4.0.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/mime/2.4.6": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@types/minimatch/3.0.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/is-path-in-cwd/2.1.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/killable/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/number-is-nan/1.0.1": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/@hapi/bourne/1.3.2": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/pretty-bytes/5.3.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/babel-runtime/6.26.0": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/core-js/2.6.11": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"registry.npmjs.org/superagent/3.8.3": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"file:projects/cooktop-ui.tgz": [
+		"/home/patrick/repos/cooktop/common/temp"
+	],
+	"file:projects/management-api.tgz": [
+		"/home/patrick/repos/cooktop/common/temp"
+	]
+}

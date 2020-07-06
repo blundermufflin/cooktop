@@ -1,5 +1,5 @@
 
-import { Model } from 'objection';
+import Objection, { Model } from 'objection';
 import Knex from 'knex';
 import { resolve } from "path"
 import { config } from "dotenv"
@@ -53,7 +53,7 @@ async function createSchema() {
   });
 }
 
-export default async function main() {
+async function main() {
   // Create some people.
   const sylvester = await Person.query().insertGraph({
     firstName: 'Sylvester',
@@ -66,7 +66,7 @@ export default async function main() {
         firstName: 'Sophia'
       }
     ]
-  });
+  } as Objection.PartialModelGraph<Person, Person & Objection.GraphParameters>);
 
   console.log('created:', sylvester);
 
@@ -80,10 +80,12 @@ export default async function main() {
   console.log('sylvesters:', sylvesters);
 }
 
-createSchema()
+const _createSchema = createSchema()
   .then(() => main())
   .then(() => knex.destroy())
   .catch(err => {
     console.error(err);
     return knex.destroy();
   });
+
+export default knex;

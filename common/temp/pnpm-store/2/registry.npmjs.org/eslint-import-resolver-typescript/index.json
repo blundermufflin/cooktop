@@ -1,0 +1,180 @@
+{
+	"name": "eslint-import-resolver-typescript",
+	"dist-tags": {
+		"latest": "2.0.0",
+		"next": "1.1.1"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.0.0",
+			"dependencies": {
+				"resolve": "^1.4.0"
+			},
+			"dist": {
+				"shasum": "16eca8fa5068de789948adbc527eb21e34d08182",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.0.0.tgz"
+			}
+		},
+		"1.0.1": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.0.1",
+			"dependencies": {
+				"resolve": "^1.4.0"
+			},
+			"dist": {
+				"shasum": "60b90b5fb92ca7940f222da1b7c1373621b93a5c",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.0.1.tgz"
+			}
+		},
+		"1.0.2": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.0.2",
+			"dependencies": {
+				"resolve": "^1.4.0"
+			},
+			"dist": {
+				"integrity": "sha512-cO0H244gGEdekOhWmF2hq9nsqovGzSDwAMjfpSJf4u33SmuFNmMhU/+N6A7y9dsIgV17ETzXjjRne9sec1CWxA==",
+				"shasum": "d910270459668c92c4673d0cf74c08d763ad5c98",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.0.2.tgz"
+			}
+		},
+		"1.1.0-rc.0": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.1.0-rc.0",
+			"dependencies": {
+				"debug": "^4.0.1",
+				"resolve": "^1.4.0",
+				"tsconfig-paths": "^3.6.0"
+			},
+			"devDependencies": {
+				"eslint": "^5.6.1",
+				"eslint-plugin-import": "^2.14.0",
+				"typescript": "^3.1.1"
+			},
+			"peerDependencies": {
+				"eslint": "*",
+				"eslint-plugin-import": "*"
+			},
+			"dist": {
+				"integrity": "sha512-/TZy0QFR7IcUFWGi8C6KjdWQ4w3TwnmrIiwzDC64X2yIKFDd7a4RlCyUqt/tpS19KcX4/Hv920sx5YvYbpvAqA==",
+				"shasum": "ea283b0f52dac710520eb146759e426efd5018bf",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.1.0-rc.0.tgz",
+				"fileCount": 3,
+				"unpackedSize": 3849,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbu4RKCRA9TVsSAnZWagAAhA0P/i1cEWwwWgcbedDq/Y4k\nPk8WLwT5UPzMWVwcOVMsXFUisadM496Ff39WACYLwIsPz5MpUwId2tyTmdAH\nDwcD8KGaYGdOAd5yINtfJb8y5cCpu+jt6nJKuBzWlNadDMK9AfqzSSVO141k\n7WqZy7VAhaJ3fn1LZmUKFbn/MkLIoQaYuCGzbJ4Wk7IaatDGhj/O4yF06Vwk\nT2ziZ9WXxQN5+pyopvIwgkUmvv4loxMTWxiWtskJqBxjT+dg5IWOJvYc5kPk\nOgczg1I9fpkCvSWHEKYJHXZ0YVP34wU03Kxk8vNRw71XFgTrrlDVVl8s29wQ\n9+Fe9Dwia5z8pJXfIKpAjnJReBDxDZui4Oi6PdNjdhp7zDdTrF5XJ4iTvPia\nn0yEnJYsRiepVKWX3f4ELeLBrhmBSm4geaOlUoTiH/+hJkTnsZuAGTiPWIoa\nEUFNFtnUtwR1VPC5IT2YzuvcOLSNUYmw+fiTrGErNq2lCdgaGuThXqdmj8j9\nzliYyuFoVlzjYveBHLwX2SYDx9XaQjYx9hzIOhjUDZJn7B4vFzHnfA2j4ZEl\n+SfrKP6bTN7SQHHA8MpZot9S7qvtwIQ4b9G+zZMp7CFtjY9OV080AbCVyXey\nbJXggH33VwjLoFvyps2j8oMcLosKAGAMeCe7WYzCM/FG3kpvQLfUjelP2vUh\n6bsw\r\n=Hn43\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"1.1.0": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.1.0",
+			"dependencies": {
+				"debug": "^4.0.1",
+				"resolve": "^1.4.0",
+				"tsconfig-paths": "^3.6.0"
+			},
+			"devDependencies": {
+				"eslint": "^5.6.1",
+				"eslint-plugin-import": "^2.14.0",
+				"typescript": "^3.1.1"
+			},
+			"peerDependencies": {
+				"eslint": "*",
+				"eslint-plugin-import": "*"
+			},
+			"dist": {
+				"integrity": "sha512-nke1obF5sp1xdGH7n5t+mEWIYfZ4FKmDK6I+u2iKFomzs7Si3Scq075VsnyUqhcMHx/Zn0XkJEMPR3Y9to06dg==",
+				"shasum": "bf403d55d1af3cca72ba5ba7de3f74107b121cf1",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.1.0.tgz",
+				"fileCount": 3,
+				"unpackedSize": 3818,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbu4XYCRA9TVsSAnZWagAAif8QAIqMgyz0TGVmfgWQtkfh\nLVI3b9BQpxQrhrrOWCAuqECicuqEVHAEVDkVQ9a6Z1BDWHS3Aos8Tyqip0bV\nIJ3lMoCkVwq7Q6t7JI89RlpGlaLGLqcIH5/PIlsQuIXWyPNGSY6IJW+7xP9O\nMLUs9H/bTSwWKHiH6ILeNo2ZWITzVgQZBhF9PJxt8tJhyrOMQ7Dm7OjR5uMe\ngRz1eZiTFkx6SnSJ+5nyKAURvffFPjSrTcgxE2udP/Gw8mRaZc0q+g40ojlK\nnPTXWQHo6J+bViy6lYoEfDhiqXI/Y1CPRuv8o/qJMQbKIY9xJHcaiJD4Xfck\nepgArnPJDOKxGFGCAZTP6YfHLa26bDjKKnyGWwFwUUHsWhHM9XIY1LoUbwu7\nuVjICZwUCw+NiNrt9/0WTSb/xi6xZMV3zSnP8dRfjcJ56/ef8PxRR7w3Fu0e\nDUiTA585AEKwDdpl93sN0np1u8SNi0MMEg/eUEF+IZ0yU0RzqcdD93Yoxs0X\n48xWfncDd6MpaFY64EGN+xTat4tq/+NXEV9Nv/wt3iDcPlYNFA9kN5lh7DeP\n/wlgHO9B83bfsf5HTzmmuPcEnL91ipWSmnKxnCcybvBxf19wZtfm7bszwo/k\nnYhtWvD99TMRICppeiW69TbxcoOiw8wqA6vdKmuoDSzGoSSjY9PzILhz3iTq\n1W0R\r\n=5tSY\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"1.1.1": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "1.1.1",
+			"dependencies": {
+				"debug": "^4.0.1",
+				"resolve": "^1.4.0",
+				"tsconfig-paths": "^3.6.0"
+			},
+			"devDependencies": {
+				"dummy.js": "file:dummy.js",
+				"eslint": "^5.6.1",
+				"eslint-plugin-import": "^2.14.0",
+				"typescript": "^3.1.1"
+			},
+			"peerDependencies": {
+				"eslint": "*",
+				"eslint-plugin-import": "*"
+			},
+			"dist": {
+				"integrity": "sha512-jqSfumQ+H5y3FUJ6NjRkbOQSUOlbBucGTN3ELymOtcDBbPjVdm/luvJuCfCaIXGh8sEF26ma1qVdtDgl9ndhUg==",
+				"shasum": "e6d42172b95144ef16610fe104ef38340edea591",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-1.1.1.tgz",
+				"fileCount": 3,
+				"unpackedSize": 4287,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb0zroCRA9TVsSAnZWagAAV9oP/jVLucBc1zwwWfvudJor\nl1Y0MTbPW9gYO/KbVatE9M/yh2TgmsLdiAUZVxHufZTsHzpNuFGmWSMs56IL\n4kD5NBASdDy1NgfmRl5An1vJ63n8Nrc1t2SAdFw/eQHBC9Er7QY7XHJclEN1\n5uo/KFoPmW+jLROeSTGMhfOrA2hFlEudizm3lHL0wnn//rNH/qKB/frGcAOQ\n79CCsIKCRrUvaVzo2+xzplh93zcxmKh6h5uDfbuq/6LP5G30IHmJV9XrnuRZ\nEXcHoNz/HGaiOXBIiKAAyN+enxLKi+R4LGkPKT6GFH0MKDG1OsjwyebnklTM\n16ygC9dMSeYsZz2CjseV6Mk2OzkANoqgl4r/9i8ExXsLhZXIl3IXhUaTyfYh\nPf9P/12vpDfUcspJVWbKW3Pqjifrzf90F2ia/gQ4uoNM4/XoO7RsDqpWKsbS\nKc4JmePNniFCVoLaCGGW+OpaWimvzOu6wF3A/0C6aEsbpFY/guggqIyxCWL5\n1MMvF3YomY9VK931zYf6Cx232n42EPC1fMtIBdDF1kDsNEz4fL9m9OZZfau3\n0jCaZAtx6lxTQYr/FQCiQWtrRl3XhURGbc1KFoIxWtZG5E6Z4DCMqk+RP77T\nKOqJunJRmQAL6QTctzyKZSaTS1tYkSz0nmqxVUoDydB7UrG6Yy39+H4LOVH2\nt3D+\r\n=0irr\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"2.0.0": {
+			"name": "eslint-import-resolver-typescript",
+			"version": "2.0.0",
+			"dependencies": {
+				"debug": "^4.1.1",
+				"is-glob": "^4.0.1",
+				"resolve": "^1.12.0",
+				"tiny-glob": "^0.2.6",
+				"tsconfig-paths": "^3.9.0"
+			},
+			"devDependencies": {
+				"@1stg/babel-preset": "^0.7.4",
+				"@1stg/commitlint-config": "^0.1.0",
+				"@1stg/eslint-config": "^0.12.20",
+				"@1stg/husky-config": "^0.3.1",
+				"@1stg/lint-staged": "^0.8.6",
+				"@1stg/prettier-config": "^0.4.2",
+				"@1stg/remark-config": "^0.2.2",
+				"@1stg/tsconfig": "^0.6.0",
+				"@babel/core": "^7.6.2",
+				"@commitlint/cli": "^8.2.0",
+				"@pkgr/rollup": "^0.2.4",
+				"@types/debug": "^4.1.5",
+				"@types/is-glob": "^4.0.1",
+				"@types/node": "^12.7.11",
+				"@types/resolve": "^0.0.8",
+				"@types/unist": "^2.0.3",
+				"dummy.js": "link:dummy.js",
+				"eslint": "^6.5.1",
+				"eslint-import-resolver-typescript": "link:.",
+				"husky": "^3.0.8",
+				"lint-staged": "^9.4.1",
+				"npm-run-all": "^4.1.5",
+				"prettier": "^1.18.2",
+				"react": "^16.10.2",
+				"rollup": "^1.23.1",
+				"type-coverage": "^2.3.0",
+				"typescript": "^3.6.3"
+			},
+			"peerDependencies": {
+				"eslint": "*",
+				"eslint-plugin-import": "*"
+			},
+			"dist": {
+				"integrity": "sha512-bT5Frpl8UWoHBtY25vKUOMoVIMlJQOMefHLyQ4Tz3MQpIZ2N6yYKEEIHMo38bszBNUuMBW6M3+5JNYxeiGFH4w==",
+				"shasum": "e95f126cc12d3018b9cc11692b4dbfd3e17d3ea6",
+				"tarball": "https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-2.0.0.tgz",
+				"fileCount": 10,
+				"unpackedSize": 113499,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdnMo6CRA9TVsSAnZWagAAcIAP/2v5y77WSMsIyLjRiNlT\nGBHFE6sR0UUWTQIgqwsuHO9cNbPdqDdOoCRHtyYwncKKVMgTMKtocmdlaUli\noB42LmeP2Zgfu7pHHoZQ2LszhIfXlWpcUxdl4XkztD+0NUG+Lg70W6Zz1Wka\nszqpDO+qE6FCjD0zpxNJmKBj/uX8uU0sXhIaLA9aYijxLhe+5oMOa4AOxrvp\nnZxBz2e/jKmB00hQLNIRCyeF1gp4/kTZiY0PQUa440xepwFySo+qWHUvtOPG\nABtu2xceBxbV+xxzKKEs/GUmPIBahmnno7M0G+RrB6D5KZyK7whqR1t5mlSe\nKZMqnWO6u9FEXkAdp+qFWezkVULHeKq5iZw9O2o9KuvS3D0iVrAslaS1H1fy\nncwYyZMXUmnUT4KDRbWY8k+8Zr/AydCMa39Xpp+2AMq8edOc+LtqNLBWJMrd\nMCpUq9Sa67iufoXXyoY16wADJgN5HGB7HWLzL0QFrsICB3ZDJA32ThW+a6/k\nuln8BVWrs7k35Lby3jsZPjHiD4xUrMTji4o7+xHzavl3djkoXEO86l4p5GW8\n0eb3BZ6R/iegJ5tnLT3Vf4ndrX4UFB0hud165CyLqzO9lnQ/8Yw/KQLN8nf8\nDQrYCneMLxSfNlSPYXXHuCcdhyCExKxmEKuTmyEHeG6/Fcwp6vGv7iet6+H4\nauyb\r\n=mBtP\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"optionalDependencies": {}
+		}
+	},
+	"modified": "2019-10-08T17:41:17.537Z",
+	"cachedAt": 1594065096599
+}

@@ -10,7 +10,7 @@
   "ensureConsistentVersions": true,
 
   "projectFolderMinDepth": 2,
-  "projectFolderMaxDepth": 3,
+  "projectFolderMaxDepth": 2,
   "approvedPackagesPolicy": {
     "reviewCategories": [
       "production",
@@ -37,18 +37,13 @@
   "projects": [
     {
       "packageName": "management-api",
-      "projectFolder": "src/services/management-api",
+      "projectFolder": "packages/management-api",
       "reviewCategory": "production"
     },
     {
-      "packageName": "my-controls",
-      "projectFolder": "src/apps/cooktop-ui",
+      "packageName": "cooktop-ui",
+      "projectFolder": "packages/cooktop-ui",
       "reviewCategory": "production"
-    },
-    {
-      "packageName": "my-toolchain",
-      "projectFolder": "tools/my-toolchain",
-      "reviewCategory": "tools"
     }
   ]
 }

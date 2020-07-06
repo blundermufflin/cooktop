@@ -6,7 +6,7 @@ const startServer = () => {
   try {
     const app = getApp();
     app.listen(PORT, async ()  => {
-      const db = await getDb();
+      const db = getDb;
       console.log(`server started at http://localhost:${PORT}`);
     });
   } catch (error) {
