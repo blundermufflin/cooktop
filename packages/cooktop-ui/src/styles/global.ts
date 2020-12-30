@@ -1,6 +1,6 @@
-import { createGlobalStyle } from 'styled-components';
+import { css } from '@emotion/react';
 
-export default createGlobalStyle`
+export const globalStyles = css`
   * {
     margin: 0;
     padding: 0;
@@ -8,11 +8,11 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
   body {
-    background: #fff;
+    background: #1a2640;
     -webkit-font-smoothing: antialiased;
   }
   body, input, button{
-    font-family: 'Roboto', serif;
+    font-family: 'Lato', serif;
     font-size: 16px;
   }
   h1,h2,h3,h4,h5,h6,strong{
@@ -21,5 +21,7 @@ export default createGlobalStyle`
   button{
     cursor: pointer;
   }
-
+  html, body, .app-root {
+    height: 100%;
+  }
 `;

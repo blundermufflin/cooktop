@@ -3,6 +3,18 @@
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
   "packages": [
     {
+      "name": "@emotion/core",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@emotion/react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@emotion/styled",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "@testing-library/jest-dom",
       "allowedCategories": [ "production" ]
     },
@@ -63,6 +75,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "eslint-plugin-emotion",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "eslint-plugin-import",
       "allowedCategories": [ "production" ]
     },
@@ -80,6 +96,10 @@
     },
     {
       "name": "eslint-plugin-react-hooks",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-tsdoc",
       "allowedCategories": [ "production" ]
     },
     {
@@ -116,6 +136,10 @@
     },
     {
       "name": "react-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-is",
       "allowedCategories": [ "production" ]
     },
     {
