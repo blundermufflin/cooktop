@@ -6,16 +6,16 @@ import { config } from "dotenv"
 
 config({ path: resolve(__dirname, "../.env") })
 
-const POSTGRES_DB_PASSWORD = process.env.POSTGRES_DB_PASSWORD;
+const POSTGRES_DB_PASSWORD = process.env.POSTGRES_DB_PASSWORD || 'postgres';
 const POSTGRES_SYS_PASSWORD = process.env.POSTGRES_SYS_PASSWORD;
 
 // Initialize knex.
 const knex = Knex({
   client: 'postgresql',
   useNullAsDefault: true,
-  connection: `postgres://postgres:${POSTGRES_DB_PASSWORD}@localhost:381/cooktop-development`
+  connection: `postgres://postgres:${POSTGRES_DB_PASSWORD}@localhost:5433/cooktop-development`
 });
-
+POSTGRES_DB_PASSWORD
 // Give the knex instance to objection.
 Model.knex(knex);
 

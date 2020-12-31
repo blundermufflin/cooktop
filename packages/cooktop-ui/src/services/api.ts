@@ -16,6 +16,7 @@ api.interceptors.request.use((config) => {
   if (token) {
     headers.Authorization = `Bearer ${token}`;
   }
+  headers['Content-Type'] = 'application/x-www-form-urlencoded';
 
   return { ...config, headers };
 });

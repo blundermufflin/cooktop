@@ -10,15 +10,15 @@ dependencies:
   '@types/axios': 0.14.0
   '@types/body-parser': 1.19.0
   '@types/chai': 4.2.11
+  '@types/cors': 2.8.9
   '@types/dotenv': 6.1.1
   '@types/express': 4.17.6
   '@types/jest': 24.9.1
   '@types/mocha': 5.2.7
-  '@types/node': 12.12.47
+  '@types/node': 14.0.0
   '@types/react': 16.9.41
   '@types/react-dom': 16.9.8
   '@types/react-router-dom': 5.1.5
-  '@types/styled-components': 5.1.0
   '@types/supertest': 2.0.10
   '@typescript-eslint/eslint-plugin': 2.34.0_b19fc4176cc1ce9aa077ffdbf5f88816
   '@typescript-eslint/parser': 2.34.0_eslint@6.8.0+typescript@3.7.5
@@ -27,6 +27,7 @@ dependencies:
   axios: 0.19.2
   body-parser: 1.19.0
   chai: 4.2.0
+  cors: 2.8.5
   dotenv: 8.2.0
   eslint: 6.8.0
   eslint-config-airbnb: 18.2.0_ade1c65d9533c82be26a49ff5ce9a2ae
@@ -51,7 +52,6 @@ dependencies:
   react-is: 16.13.1
   react-router-dom: 5.2.0_react@16.13.1
   react-scripts: 3.4.1_typescript@3.7.5
-  styled-components: 5.1.1_9a4a3b3ed34a772b68db523825332f5f
   supertest: 4.0.2
   ts-node: 8.10.2_typescript@3.7.5
   tsconfig-paths: 3.9.0
@@ -1971,6 +1971,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-aRnpPa7ysx3aNW60hTiCtLHlQaIFsXFCgQlpakNgDNVFzbtusSY8PwjAQgRWfSk0ekNoBjO51eQRB6upA9uuyw==
+  /@types/cors/2.8.9:
+    dev: false
+    resolution:
+      integrity: sha512-zurD1ibz21BRlAOIKP8yhrxlqKx6L9VCwkB5kMiP6nZAhoF5MvC7qS1qPA7nRcr1GJolfkQC7/EAL4hdYejLtg==
   /@types/dotenv/6.1.1:
     dependencies:
       '@types/node': 12.12.47
@@ -2063,6 +2067,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-yzBInQFhdY8kaZmqoL2+3U5dSTMrKaYcb561VU+lDzAYvqt+2lojvBEy+hmpSNuXnPTx7m9+04CzWYOUqWME2A==
+  /@types/node/14.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-BZHGudjgZ8cweaQC2Q7hKpZNT2sq//NNbc7KcuTdti10S/tKIXpqiAgzZZFdwm6uUdRE9jy6UYSESNvB5rmFgA==
   /@types/parse-json/4.0.0:
     dev: false
     resolution:
@@ -4064,6 +4072,15 @@ packages:
     dev: false
     resolution:
       integrity: sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
+  /cors/2.8.5:
+    dependencies:
+      object-assign: 4.1.1
+      vary: 1.1.2
+    dev: false
+    engines:
+      node: '>= 0.10'
+    resolution:
+      integrity: sha512-KIHbLJqu73RGr/hnbrO9uBeixNGuvSQjul/jdFvS/KFSIH1hWVd1ng7zOHx+YrEfInLG7q4n6GHQ9cDtxv/P6g==
   /cosmiconfig/5.2.1:
     dependencies:
       import-fresh: 2.0.0
@@ -13734,7 +13751,7 @@ packages:
       '@testing-library/user-event': 7.2.1
       '@types/axios': 0.14.0
       '@types/jest': 24.9.1
-      '@types/node': 12.12.47
+      '@types/node': 14.0.0
       '@types/react': 16.9.41
       '@types/react-dom': 16.9.8
       '@types/react-router-dom': 5.1.5
@@ -13766,21 +13783,24 @@ packages:
     dev: false
     name: '@rush-temp/cooktop-ui'
     resolution:
-      integrity: sha512-wTyUqOtd/H8D3cFPq22ZUYsidqPaohbpz3YGim+HNr1oq6Jd5+GM/n8A+iBXpyE8gkosStRnAhaBRhKvFpfafQ==
+      integrity: sha512-4UyAGVNAito3ZSCKaG9NbBy+ncx/frXqzLX194hTfnWl46GE5CzMjgmHmCrLKQ/QlGT5T/nSeG+WtqeGs0GMBw==
       tarball: 'file:projects/cooktop-ui.tgz'
     version: 0.0.0
   'file:projects/management-api.tgz':
     dependencies:
       '@types/body-parser': 1.19.0
       '@types/chai': 4.2.11
+      '@types/cors': 2.8.9
       '@types/dotenv': 6.1.1
       '@types/express': 4.17.6
       '@types/mocha': 5.2.7
+      '@types/node': 14.0.0
       '@types/supertest': 2.0.10
       '@typescript-eslint/eslint-plugin': 2.34.0_b19fc4176cc1ce9aa077ffdbf5f88816
       '@typescript-eslint/parser': 2.34.0_eslint@6.8.0+typescript@3.7.5
       body-parser: 1.19.0
       chai: 4.2.0
+      cors: 2.8.5
       dotenv: 8.2.0
       eslint: 6.8.0
       eslint-config-prettier: 6.11.0_eslint@6.8.0
@@ -13799,7 +13819,7 @@ packages:
     dev: false
     name: '@rush-temp/management-api'
     resolution:
-      integrity: sha512-LQZuNJ04qWPhr8tXLa0A+UfHFDfFDILP+F6d6tA2FAWIsZC9AFxOXvrHlIyOy3GYM9nMLKtiLQyDkmdPpOrrlA==
+      integrity: sha512-maC/u3VIA8w/ct5k2N2oeiHmOZ0FMCGRg45lb3I8NVPEF/aOHsJnwPcQN/Mqv/nNfu9Ugj9z4Jvp/8ZSacgR9A==
       tarball: 'file:projects/management-api.tgz'
     version: 0.0.0
 registry: ''
@@ -13815,15 +13835,15 @@ specifiers:
   '@types/axios': ^0.14.0
   '@types/body-parser': ^1.19.0
   '@types/chai': ^4.2.11
+  '@types/cors': ~2.8.9
   '@types/dotenv': ^6.1.1
   '@types/express': ^4.17.6
   '@types/jest': ^24.0.0
   '@types/mocha': ^5.2.7
-  '@types/node': ^12.0.0
+  '@types/node': 14.0.0
   '@types/react': ^16.9.0
   '@types/react-dom': ^16.9.0
   '@types/react-router-dom': ^5.1.5
-  '@types/styled-components': ^5.1.0
   '@types/supertest': ^2.0.9
   '@typescript-eslint/eslint-plugin': ^2.33.0
   '@typescript-eslint/parser': ^2.33.0
@@ -13832,6 +13852,7 @@ specifiers:
   axios: ^0.19.2
   body-parser: ^1.19.0
   chai: ^4.2.0
+  cors: ~2.8.5
   dotenv: ^8.2.0
   eslint: ^6.8.0
   eslint-config-airbnb: ^18.1.0
@@ -13856,7 +13877,6 @@ specifiers:
   react-is: ^16.13.1
   react-router-dom: ^5.2.0
   react-scripts: 3.4.1
-  styled-components: ^5.1.0
   supertest: ^4.0.2
   ts-node: ^8.10.1
   tsconfig-paths: ^3.9.0
