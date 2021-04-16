@@ -3,19 +3,19 @@
     "packages/management-api/.eslintrc.js": "2bb8ccafbcc678c6ffeebdc0b3f23511bbbd64d6",
     "packages/management-api/.gitignore": "de7cc2524c7401071a2dd22c6dd15191977f902e",
     "packages/management-api/.prettierrc.js": "4e0a9155b9bf781bb8dfc1fc3c2719233df6b7fa",
-    "packages/management-api/.rush/temp/package-deps_build.json": "62d5c21d6fad9e1f66e9b7fc7733c5fdba29e3a3",
-    "packages/management-api/.rush/temp/shrinkwrap-deps.json": "2413c8e102ce666f7b854ae24aedbed4e64faa18",
+    "packages/management-api/.rush/temp/package-deps_build.json": "b63a01346dd8db8e8927a8414da6f796e68db751",
+    "packages/management-api/.rush/temp/shrinkwrap-deps.json": "b03d86f23e96918694c1474e7707e4483a01d483",
     "packages/management-api/.vscode/settings.json": "24e7152ece10f683d87121c59c52f92f625ade10",
-    "packages/management-api/package.json": "3e4d7048566deae0e37c3beebc8fbee753bbd0d3",
+    "packages/management-api/package-lock.json": "879eabf0799a3922151cfa464fecb976f33bfa0f",
+    "packages/management-api/package.json": "4008cc9c570244eba711cd634539ce2042ec4114",
     "packages/management-api/pnpm-lock.yaml": "ae3144f394e39b6caed657284a7be6aac6f0c405",
     "packages/management-api/src/app.spec.ts": "47b7766b48bb1600d88f90095f0fe4478b6ff5e8",
-    "packages/management-api/src/app.ts": "bdb1975a5dc03b8ee5a6efbcad3e2366def03fdc",
+    "packages/management-api/src/app.ts": "57dc47ee17e539dbe9e1e954e0bc5cd060c1f6bd",
     "packages/management-api/src/configuration/index.ts": "258272c75ed0bf2aac10b81931d1b40a1cb6bd5c",
     "packages/management-api/src/db.ts": "9ccf71c8f67fc0dce5a0c7c110454602c156aad6",
     "packages/management-api/src/index.ts": "633bfa2bccf1650fafa37121a1007b99599a1152",
     "packages/management-api/tsconfig-paths-bootstrap.js": "fde46a0405d62032898702985385149b2ea8cb1d",
-    "packages/management-api/tsconfig.json": "1abceba9920f239d35149c1c6407ce1093205529",
-    "packages/management-api/package-lock.json": "879eabf0799a3922151cfa464fecb976f33bfa0f"
+    "packages/management-api/tsconfig.json": "1abceba9920f239d35149c1c6407ce1093205529"
   },
   "arguments": "tsc "
 }
